@@ -1,0 +1,76 @@
+
+* {
+  box-sizing: border-box;
+}
+
+.navbar-default .navbar-brand{
+
+color: teal;
+
+
+
+}
+
+
+.transbox { position: absolute;
+margin-top: -50px;
+margin-left: 25px;
+
+height: 20px;
+width: 75%;
+  background-color: #20B2AA;
+
+
+
+}
+
+.icon {
+	width: 60px;
+	height: auto;
+	color: none;
+	border-right: none;
+}
+
+.footer{
+
+	text-align: center;
+}
+
+
+@media screen and (max-width: 980px) {
+
+	/*
+	  No specific rules for large screens at this time.
+	*/
+}
+	
+
+
+@media screen and (max-width: 768px) {
+
+	.transbox { position: absolute;
+margin-top: -50px;
+margin-left: 20px;
+
+height: 20px;
+width: 50%;
+  background-color: #20B2AA;
+
+
+
+}
+
+
+@media screen and (max-width: 640px) {
+
+.transbox { position: absolute;
+margin-top: -50px;
+margin-left: 25px;
+
+height: 20px;
+width: 75%;
+  background-color: #20B2AA;}
+
+}
+
+
