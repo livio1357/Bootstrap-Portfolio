@@ -31,6 +31,14 @@ width: 75%;
 	border-right: none;
 }
 
+.icon:hover {
+	transform: rotate(-10deg);
+	-ms-transform: rotate(-10deg);
+	-webkit-transform: rotate(-10deg);
+	-moz-transform: rotate(-10deg);
+	-o-transform: rotate(-10deg);
+}
+
 .footer{
 
 	text-align: center;
