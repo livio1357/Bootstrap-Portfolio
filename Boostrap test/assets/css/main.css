@@ -11,11 +11,6 @@ color: teal;
 
 }
 
-a {
-    color: #337ab7;
-    text-decoration: none;
-    float: right;
-}
 
 .transbox { position: absolute;
 margin-top: -50px;
